@@ -18,7 +18,7 @@ public class LMSConfig {
 	public final String driver = "com.mysql.cj.jdbc.Driver";
 	public final String url = "jdbc:mysql://localhost/library";
 	public final String username = "root";
-	public final String password = "Chandru29";//password
+	public final String password = "";//password
 	
 	@Bean
 	public BasicDataSource dataSource(){
